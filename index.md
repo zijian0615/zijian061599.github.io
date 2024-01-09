@@ -12,11 +12,11 @@ is_about: true
 
 ## About Me
 
+I am a teaching assistant at the HKBU on the department of AEF, where I work in assisting the DABE master program. I am currently seeking the PhD position in information science/computuer science. In my research, I use computational methods to study online trust,data breaches and platform security. I am also interested sociolinguistic ideas,in other	words,how	to facilitate our	expression and thus animate	online communities.
 
+I earned my MS degree in Infomation Systems from City University of Hong Kong on Oct,2023. I have a bachlor's degree in Economics from the Nanjing Agricultural University and have worked as a research intern at places like Core Biotech. I 've been recognized as a "Outstanding Graduates" in Nanjing Agri Univ.
 
-Hiiiiiiii! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My past work has examined how people in crowdfunding communities form their online trust,how to mitigate data breaches in healthcare systems,and 
 
 ## Research Interest
 
