@@ -12,11 +12,11 @@ is_about: true
 <h2>About Me</h2>
 
 <p>
-    I am a teaching assistant at the HKBU in the Department of AEF, where I work in assisting the <a href="<a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> " class="underline" target="_blank">Click this URL</a>master program. I am currently seeking a PhD position in information science/computer science. In my research, I use computational methods to study online trust, data breaches, and platform security. I am also interested in sociolinguistic ideas, in other words, how to facilitate our expression and animate online communities.
+    I am a teaching assistant at the HKBU in the Department of AEF, where I work in assisting the <a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> master program. I am currently seeking a PhD position in information science/computer science. In my research, I use computational methods to study online trust, data breaches, and platform security. I am also interested in sociolinguistic ideas, in other words, how to facilitate our expression and animate online communities.
 </p>
 
 <p>
-    I earned my MS degree in Information Systems from <a href="<a href="https://www.cb.cityu.edu.hk/is/">City " class="underline" target="_blank">Click this URL</a>University of Hong Kong</a> in October 2023. I have a bachelor's degree in Economics from Nanjing Agricultural University and have worked as a research intern at places like Core Biotech. I have been recognized as an "Outstanding Graduate" at Nanjing Agri Univ.
+    I earned my MS degree in Information Systems from <a href="https://www.cb.cityu.edu.hk/is/">City University of Hong Kong</a> in October 2023. I have a bachelor's degree in Economics from Nanjing Agricultural University and have worked as a research intern at places like Core Biotech. I have been recognized as an "Outstanding Graduate" at Nanjing Agri Univ.
 </p>
 
 <p>
