@@ -1,5 +1,6 @@
 ---
 layout: default
+is_about: true
 ---
 
 ## About Me
