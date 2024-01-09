@@ -27,18 +27,45 @@ is_about: true
 
 <table style="width:100%">
     <tr>
-        <td width="15%">May 2024</td>
-        <td>Invited to give a keynote talk at the Workshop on Reference, Framing, and Perspective at LREC-COLING 2024 in Torino</td>
+        <td width="15%">Oct 2023</td>
+        <td>I graduated from CityU!</td>
     </tr>
     <tr>
-        <td width="15%">Nov 2023</td>
-        <td>New preprint about <a href="https://arxiv.org/abs/2312.11803">guiding principles for NLP for healthcare</a> using maternal health as a case study</td>
+        <td width="15%">Aug 2023</td>
+        <td>I 'll be serving as the FT-TA at HKBU. </td>
     </tr>
     <tr>
-        <td width="15%">Dec 2023</td>
-        <td>Invited to give a keynote talk at NLP4DH in Tokyo</td>
+        <td width="15%">June 2022</td>
+        <td>I graduated from Nanjing Agri Univ!</td>
     </tr>
 </table>
+
+<p><br /></p>
+
+<h2 id="teaching-and-resources">Teaching, learning, and resources</h2>
+
+<p>I assist serveral courses in <a href="https://mscdabe.hkbu.edu.hk/eng/programme/curriculum/index.jsp">MSc of Data Analytics and Business Economics </a> program in 2023 Aug-2024 July:</p>
+
+<ul>
+  <li>ECON7880 Foundations in Big Data Analytics: Concepts and Techniques</li>
+  <li>ECON7920 Executive Workshop Series</li>
+  <li>ECON7035 Artificial Intelligence for Business</li>
+  <li>ECON7940 Data-driven Decision Making</li>
+</ul>
+
+<p>I’m one of the lead organizers for <a href="https://www.bertforhumanists.org/">AI for Humanists</a>, a series of tutorials and workshops that guide interdisciplinary researchers in using large language models. In addition to our independent tutorials, I’ve led or co-led sessions at ICWSM, Bell Labs, and the popular NLP+CSS 201 tutorial series. I’ve also taught similar public-facing courses for the Hertie School in Berlin, the Brown Institute at Columbia, and the IDEAS Summer School at Northeastern.</p>
+
+<p>I’m a builder for a large multimodal crowdfunding dataset:</p>
+<ul>
+  <li><a href="https://github.com/zjzhang1999/Kick60K">Kick60 (collected from Kickstarter)</a></li>
+ 
+</ul>
+
+<p><br /></p>
+
+
+
+
 
 <!--
 ## About Me
