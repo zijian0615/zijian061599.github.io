@@ -9,7 +9,38 @@ is_about: true
 
 <p><br /></p>
 
+<h2>About Me</h2>
 
+<p>
+    I am a teaching assistant at the HKBU in the Department of AEF, where I work in assisting the <a href="<a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> " class="underline" target="_blank">Click this URL</a>master program. I am currently seeking a PhD position in information science/computer science. In my research, I use computational methods to study online trust, data breaches, and platform security. I am also interested in sociolinguistic ideas, in other words, how to facilitate our expression and animate online communities.
+</p>
+
+<p>
+    I earned my MS degree in Information Systems from <a href="<a href="https://www.cb.cityu.edu.hk/is/">City " class="underline" target="_blank">Click this URL</a>University of Hong Kong</a> in October 2023. I have a bachelor's degree in Economics from Nanjing Agricultural University and have worked as a research intern at places like Core Biotech. I have been recognized as an "Outstanding Graduate" at Nanjing Agri Univ.
+</p>
+
+<p>
+    My past work has examined how people in crowdfunding communities form their online trust, how to mitigate data breaches in healthcare systems, and the interpretable multimodality reasoning algorithm.
+</p>
+
+<h2>News</h2>
+
+<table style="width:100%">
+    <tr>
+        <td width="15%">May 2024</td>
+        <td>Invited to give a keynote talk at the Workshop on Reference, Framing, and Perspective at LREC-COLING 2024 in Torino</td>
+    </tr>
+    <tr>
+        <td width="15%">Nov 2023</td>
+        <td>New preprint about <a href="<a href="https://arxiv.org/abs/2312.11803">guiding " class="underline" target="_blank">Click this URL</a>principles for NLP for healthcare</a> using maternal health as a case study</td>
+    </tr>
+    <tr>
+        <td width="15%">Dec 2023</td>
+        <td>Invited to give a keynote talk at NLP4DH in Tokyo</td>
+    </tr>
+</table>
+
+<!--
 ## About Me
 
 I am a teaching assistant at the HKBU on the department of AEF, where I work in assisting the <a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> master program. I am currently seeking the PhD position in information science/computuer science. In my research, I use computational methods to study online trust,data breaches and platform security. I am also interested sociolinguistic ideas,in other	words,how	to facilitate our	expression and thus animate	online communities.
@@ -61,6 +92,7 @@ Here is a horizontal rule
 Here is a blockquote
 
 > To a great mind, nothing is little
+-->
 
 ## References
 
