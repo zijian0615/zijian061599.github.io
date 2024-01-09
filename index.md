@@ -3,8 +3,8 @@ layout: default
 is_about: true
 ---
 
-<img class="profile-picture" src="my_banner.jpeg">
-<img src="my_banner.jpeg",alt='default'>
+<p><img class="profile-picture" src="my_banner.jpeg" /></p>p
+
 
 ## About Me
 
