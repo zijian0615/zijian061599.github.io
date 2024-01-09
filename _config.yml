@@ -8,19 +8,17 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://zijian0615.github.io"
-footer_text: "Page design by Ankit Sultana"
+footer_url:"zjzhang2023@hkbu.edu.hk" 
+footer_text: "zjzhang2023@hkbu.edu.hk"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "index"
  - name: "Resume"
    link: "Vitae_Zijian.pdf"
- - name: "Contact"
-   link: "contact"
  - name: "Research"
    link: "research"
+ - name: "Recreation"
+   link: "contact"
