@@ -32,7 +32,7 @@ is_about: true
     </tr>
     <tr>
         <td width="15%">Nov 2023</td>
-        <td>New preprint about <a href="<a href="https://arxiv.org/abs/2312.11803">guiding " class="underline" target="_blank">Click this URL</a>principles for NLP for healthcare</a> using maternal health as a case study</td>
+        <td>New preprint about <a href="https://arxiv.org/abs/2312.11803">guiding principles for NLP for healthcare</a> using maternal health as a case study</td>
     </tr>
     <tr>
         <td width="15%">Dec 2023</td>
