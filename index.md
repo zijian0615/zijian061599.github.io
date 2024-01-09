@@ -3,7 +3,7 @@ layout: default
 is_about: true
 ---
 
-<p><img class="profile-picture" src="my_banner.jpeg" /></p>p
+<p><img class="profile-picture" src="my_banner.jpeg" /></p>
 
 
 ## About Me
