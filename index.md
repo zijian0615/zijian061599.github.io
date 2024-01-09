@@ -5,7 +5,7 @@ is_about: true
 
 <p><br /></p>
 
-<p><img src="my_banner.jpeg" alt="default" /></p>
+<p><img src="me_banner.jpeg" alt="default" /></p>
 
 <p><br /></p>
 
