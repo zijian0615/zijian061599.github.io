@@ -67,7 +67,7 @@ hr {
 /* Divs */
 .button-preprint {
   /* 添加样式规则 */
-  background-color: #f1f1f1;
+  background-color: #ed7b7b;
   color: #333;
   border: 1px solid #ccc;
   padding: 5px 10px;
@@ -75,9 +75,18 @@ hr {
   text-decoration: none;
 }
 
+.button-web {
+  /* 添加样式规则 */
+  background-color: #c6f5c9;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 3px;
+  text-decoration: none;
+}
 .button-pdf {
   /* 添加样式规则 */
-  background-color: #007bff;
+  background-color: #d6c6f5;
   color: #fff;
   border: none;
   padding: 5px 10px;
