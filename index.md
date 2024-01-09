@@ -18,7 +18,6 @@ I earned my MS degree in Infomation Systems from <a href="https://www.cb.cityu.e
 
 My past work has examined how people in crowdfunding communities form their online trust,how to mitigate data breaches in healthcare systems,and the interpretable	multimodality reasoning algorithm. 
 
-## News
 <h2 id="news">News</h2>
 
 <table style="width:100%">
@@ -37,7 +36,6 @@ My past work has examined how people in crowdfunding communities form their onli
   <tr>
 </table>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Publications
 
