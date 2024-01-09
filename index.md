@@ -11,13 +11,13 @@ is_about: true
 
 
 ## About Me
-<!--
+
 I am a teaching assistant at the HKBU on the department of AEF, where I work in assisting the <a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> master program. I am currently seeking the PhD position in information science/computuer science. In my research, I use computational methods to study online trust,data breaches and platform security. I am also interested sociolinguistic ideas,in other	words,how	to facilitate our	expression and thus animate	online communities.
 
 I earned my MS degree in Infomation Systems from <a href="https://www.cb.cityu.edu.hk/is/">City University of Hong Kong</a> on Oct,2023. I have a bachlor's degree in Economics from the Nanjing Agricultural University and have worked as a research intern at places like Core Biotech. I 've been recognized as a "Outstanding Graduates" in Nanjing Agri Univ.
 
 My past work has examined how people in crowdfunding communities form their online trust,how to mitigate data breaches in healthcare systems,and the interpretable	multimodality reasoning algorithm. 
--->
+
 ## News
 <h2 id="news">News</h2>
 
