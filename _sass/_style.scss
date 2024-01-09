@@ -16,10 +16,11 @@ body {
 }
 a {
     text-decoration: underline;
-    color: $accent;
+    color: #272727;
 }
 a:hover {
     text-decoration: underline;
+    color: $accent
 }
 hr {
     border: 0;
