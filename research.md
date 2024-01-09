@@ -12,3 +12,8 @@ is_research: true
 <a href="https://maria-antoniak.github.io/resources/2023_arxiv_maternal_health.pdf"><button type="button" class="button-pdf">PDF</button></a>
 <a href="https://arxiv.org/abs/2312.11803"><button type="button" class="button-pdf">arXiv</button></a></p>
 
+<p><a href="https://maria-antoniak.github.io/resources/2023_preprint_where_stories.pdf"><strong>Where do people tell stories online? Story Detection Across Online Communities</strong></a>  <br />
+<strong>Maria Antoniak</strong>, Joel Mire, Maarten Sap, Elliott Ash, Andrew Piper <button type="button" class="button-preprint">preprint</button>      <br />
+<a href="https://maria-antoniak.github.io/resources/2023_preprint_where_stories.pdf"><button type="button" class="button-pdf">PDF</button></a> 
+<a href="https://arxiv.org/abs/2311.09675"><button type="button" class="button-pdf">arXiv</button></a></p>
+
