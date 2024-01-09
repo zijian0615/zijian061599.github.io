@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url:"zjzhang2023@hkbu.edu.hk" 
+footer_url: zjzhang2023@hkbu.edu.hk
 footer_text: "zjzhang2023@hkbu.edu.hk"
 
 sass:
