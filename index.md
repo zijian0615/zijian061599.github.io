@@ -3,9 +3,12 @@ layout: default
 is_about: true
 ---
 
+<img class="profile-picture" src="my_banner.jpeg">
+<img src="my_banner.jpeg",alt='default'>
+
 ## About Me
 
-<img class="profile-picture" src="my_banner.jpeg">
+
 
 Hiiiiiiii! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
