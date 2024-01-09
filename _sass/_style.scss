@@ -65,6 +65,32 @@ hr {
 }
 
 /* Divs */
+.button-preprint {
+  /* 添加样式规则 */
+  background-color: #f1f1f1;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.button-pdf {
+  /* 添加样式规则 */
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.button-preprint:hover,
+.button-pdf:hover {
+  /* 添加鼠标悬停时的样式规则 */
+  background-color: #ccc;
+  color: #333;
+}
 
 .container {
     max-width: $max-width;
