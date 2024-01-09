@@ -4,7 +4,9 @@ is_about: true
 ---
 
 <p><br /></p>
-<p><img class="profile-picture" src="my_banner.jpeg" /></p>
+
+<p><img src="my_banner.jpeg" alt="default" /></p>
+
 <p><br /></p>
 
 
