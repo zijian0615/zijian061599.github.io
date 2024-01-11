@@ -20,7 +20,7 @@ is_about: true
 </p>
 
 <p>
-    My past work has examined how people form their <a href="resources/MS_Onlinetrust.pdf">online trust</a> in crowdfunding communities,<a href="resources/MS_IS6912.pdf">the antecedents and discrimination</a> in crowdfunding,as well as <a href="https://zjzhang1999.github.io/cfmp.github.io/">the interpretable multimodality reasoning model</a> for crowdfunding success prediction. In my UG <a href="resources/UG_Dissertation.pdf">disseration</a>, I explored the risk preference in rural households entrepreneurship. I was also independently responsible for a field investigation of futures insurance in my sophomore year and drafted a simple <a href="resources/UG_Future insurance.pdf">investigation report.
+    My past work has examined how people form their <a href="resources/MS_Onlinetrust.pdf">online trust</a> in crowdfunding communities,<a href="resources/MS_IS6912.pdf">the antecedents and discrimination</a> in crowdfunding,as well as <a href="https://zjzhang1999.github.io/cfmp.github.io/">the interpretable multimodality reasoning model</a> for crowdfunding success prediction. In my UG <a href="resources/UG_Dissertation.pdf">disseration</a>, I explored the risk preference in rural households entrepreneurship. I was also independently responsible for a field investigation of futures insurance in my sophomore year and drafted a simple <a href="resources/UG_Future insurance.pdf">investigation report</a>.
 </p>
 
 <h2>News</h2>
@@ -42,7 +42,7 @@ is_about: true
 
 <p><br /></p>
 
-<h2 id="teaching-and-resources">Working, learning, and resources</h2>
+<h2>Working, learning, and resources</h2>
 
 <p>I assist serveral courses in <a href="https://mscdabe.hkbu.edu.hk/eng/programme/curriculum/index.jsp">MSc of Data Analytics and Business Economics </a> program in 2023 Aug-2024 July:</p>
 
