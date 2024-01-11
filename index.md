@@ -20,7 +20,7 @@ is_about: true
 </p>
 
 <p>
-    My past work has examined how people in crowdfunding communities form their online trust,the antecedents and discrimination in crowdfunding,as well as the interpretable multimodality reasoning model for crowdfunding success prediction. In my UG disseration, I explored the risk preference in rural households entrepreneurship. I was also independently responsible for a field investigation of futures insurance in my sophomore year and drafted a simple investigation report.
+    My past work has examined how people in crowdfunding communities form their <a href="resources/MS_Onlinetrust.pdf">online trust</a>,<a href="resources/MS_IS6912.pdf">the antecedents and discrimination</a> in crowdfunding,as well as the interpretable multimodality reasoning model for crowdfunding success prediction. In my UG disseration, I explored the risk preference in rural households entrepreneurship. I was also independently responsible for a field investigation of futures insurance in my sophomore year and drafted a simple investigation report.
 </p>
 
 <h2>News</h2>
