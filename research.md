@@ -11,16 +11,16 @@ Evidence From Reward-Crowdfunding Platform</strong></a> <button type="button" cl
 <strong>Zijian ZHANG</strong>      <br />
 <a href="resources/MS_Onlinetrust.pdf"><button type="button" class="button-pdf">PDF</button></a> 
 
-<p><a href="resources/MS_IS6912.pdf"><strong>Using multiple forms of cues and signals to predict
-crowdfunding success</strong></a> <button type="button" class="button-preprint">preprint 23'</button>  <br />
+<p><a href="resources/MS_IS6912.pdf"><strong>Using Multiple Forms of Cues and Signals to predict
+Crowdfunding Success</strong></a> <button type="button" class="button-preprint">preprint 23'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
 <a href="resources/MS_IS6912.pdf"><button type="button" class="button-pdf">PDF</button></a>
-<a href="https://github.com/zjzhang1999/crowdfunding-prediction"><button type="button" class="button-web">Website</button></a></p>
-<a href="resources/MS_IS6912_slides.pdf"><button type="button" class="button-pdf">Slides</button></a>
+<a href="https://github.com/zjzhang1999/crowdfunding-prediction"><button type="button" class="button-web">Website</button></a>
+<a href="resources/MS_IS6912_slides.pdf"><button type="button" class="button-pdf">Slides</button></a></p>
 
 
-<p><a href="resources/UG_Dissertation.pdf"><strong>Analysis of the impact of risk attitudes on rural 
-household entrepreneurship in China</strong></a> <button type="button" class="button-thesis">thesis 22'</button>  <br />
+<p><a href="resources/UG_Dissertation.pdf"><strong>Analysis of the Impact of Risk Attitudes on Rural 
+Household Entrepreneurship in China</strong></a> <button type="button" class="button-thesis">thesis 22'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
 <a href="resources/UG_Dissertation.pdf"><button type="button" class="button-pdf">PDF</button></a>
 <a href="resources/UG_Dissertation_slides.pdf"><button type="button" class="button-pdf">Slides</button></a></p>
