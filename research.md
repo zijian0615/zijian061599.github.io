@@ -19,7 +19,7 @@ crowdfunding success</strong></a> <button type="button" class="button-preprint">
 <a href="resources/MS_IS6912_slides.pdf"><button type="button" class="button-pdf">Slides</button></a>
 
 
-<p><a href="resources/UG_Disseratation.pdf"><strong>Analysis of the impact of risk attitudes on rural 
+<p><a href="resources/UG_Dissertation.pdf"><strong>Analysis of the impact of risk attitudes on rural 
 household entrepreneurship in China</strong></a> <button type="button" class="button-thesis">thesis 22'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
 <a href="resources/UG_Disseratation.pdf"><button type="button" class="button-pdf">PDF</button></a>
