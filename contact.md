@@ -8,7 +8,7 @@ is_contact: true
 
 > Tactics for youth Soccer
 > 👦👧🏟️⚽️
->  
+>  (ing)
 > 
 >  
 
@@ -16,7 +16,7 @@ is_contact: true
 
 ## Thoughts
 > 📚
->  
+>  (ing)
 > 
 >  
 
