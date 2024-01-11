@@ -28,8 +28,8 @@ household entrepreneurship in China</strong></a> <button type="button" class="bu
 <a href="resources/UG_Disseration.pdf"><button type="button" class="button-pdf">PDF</button></a>
 <a href="UG_Dissertation_slides.pdf"><button type="button" class="button-slides">Slides</button></a></p>
 
-<p><a href="resources/UG_Future insurance.pdf"><strong>Analysis of the impact of risk attitudes on rural 
-household entrepreneurship in China</strong></a> <button type="button" class="button-preprint">preprint 22'</button>  <br />
+<p><a href="resources/UG_Future insurance.pdf"><strong>The Influence of "Insurance + Futures" Pilot on Farmers' Input and Management Scale of
+Agricultural Resources</strong></a> <button type="button" class="button-preprint">preprint 22'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
 <a href="resources/UG_Future insurance.pdf"><button type="button" class="button-pdf">PDF</button></a>
 
