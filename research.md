@@ -12,7 +12,8 @@ is_research: true
 <a href="resources/MS_CFMP.pdf"><button type="button" class="button-pdf">PDF</button></a>
 <a href="https://zjzhang1999.github.io/cfmp.github.io/"><button type="button" class="button-web">Website</button></a></p>
 
-<p><a href="resources/MS_Onlinetrust.pdf"><strong>Do online trust in crowdfunding effects investment decisions?</strong></a> <button type="button" class="button-preprint">preprint 23'</button>  <br />
+<p><a href="resources/MS_Onlinetrust.pdf"><strong>Do Trust in Crowdfunding Effects Investing Decisions? -
+Evidence From Reward-Crowdfunding Platform</strong></a> <button type="button" class="button-preprint">preprint 23'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
 <a href="resources/MS_Onlinetrust.pdf"><button type="button" class="button-pdf">PDF</button></a> 
 
