@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: zjzhang2023@hkbu.edu.hk
-footer_text: "zjzhang2023@hkbu.edu.hk"
+footer_text: "zjzhang2023@hkbu.edu.hk    224 Waterloo Road, Kowloon Tong"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "Resume"
-   link: "Vitae_Zijian.pdf"
+   link: "resources/Vitae_Zijian.pdf"
  - name: "Research"
    link: "research"
  - name: "Recreation"
