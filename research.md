@@ -22,15 +22,15 @@ crowdfunding success</strong></a> <button type="button" class="button-preprint">
 <a href="resources/MS_IS6912.pdf"><button type="button" class="button-pdf">PDF</button></a>
 <a href="https://github.com/zjzhang1999/crowdfunding-prediction"><button type="button" class="button-web">Website</button></a></p>
 
-<p><a href="resources/UG_disseration.pdf"><strong>Analysis of the impact of risk attitudes on rural 
+<p><a href="resources/UG_Disseration.pdf"><strong>Analysis of the impact of risk attitudes on rural 
 household entrepreneurship in China</strong></a> <button type="button" class="button-preprint">preprint 22'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
-<a href="resources/MS_IS6912.pdf"><button type="button" class="button-pdf">PDF</button></a>
+<a href="resources/UG_Disseration.pdf"><button type="button" class="button-pdf">PDF</button></a>
 <a href="UG_Dissertation_slides.pdf"><button type="button" class="button-slides">Slides</button></a></p>
 
-<p><a href="resources/UG_disseration.pdf"><strong>Analysis of the impact of risk attitudes on rural 
+<p><a href="resources/UG_Future insurance.pdf"><strong>Analysis of the impact of risk attitudes on rural 
 household entrepreneurship in China</strong></a> <button type="button" class="button-preprint">preprint 22'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
-<a href="resources/MS_IS6912.pdf"><button type="button" class="button-pdf">PDF</button></a>
-<a href="UG_Dissertation_slides.pdf"><button type="button" class="button-slides">Slides</button></a></p>
+<a href="resources/UG_Future insurance.pdf"><button type="button" class="button-pdf">PDF</button></a>
+
 
