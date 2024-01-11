@@ -26,5 +26,5 @@ crowdfunding success</strong></a> <button type="button" class="button-preprint">
 household entrepreneurship in China</strong></a> <button type="button" class="button-preprint">preprint 22'</button>  <br />
 <strong>Zijian ZHANG</strong>      <br />
 <a href="resources/MS_IS6912.pdf"><button type="button" class="button-pdf">PDF</button></a>
-
+<a href="UG_Dissertation_slides.pdf"><button type="button" class="button-slides">Slides</button></a></p>
 
