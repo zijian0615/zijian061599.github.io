@@ -20,7 +20,7 @@ is_about: true
 </p>
 
 <p>
-    My past work has examined how people in crowdfunding communities form their <a href="resources/MS_Onlinetrust.pdf">online trust</a>,<a href="resources/MS_IS6912.pdf">the antecedents and discrimination</a> in crowdfunding,as well as <a href="https://zjzhang1999.github.io/cfmp.github.io/">the interpretable multimodality reasoning model</a> for crowdfunding success prediction. In my UG disseration, I explored the risk preference in rural households entrepreneurship. I was also independently responsible for a field investigation of futures insurance in my sophomore year and drafted a simple investigation report.
+    My past work has examined how people form their <a href="resources/MS_Onlinetrust.pdf">online trust</a> in crowdfunding communities,<a href="resources/MS_IS6912.pdf">the antecedents and discrimination</a> in crowdfunding,as well as <a href="https://zjzhang1999.github.io/cfmp.github.io/">the interpretable multimodality reasoning model</a> for crowdfunding success prediction. In my UG <a href="resources/UG_Dissertation.pdf">disseration</a>, I explored the risk preference in rural households entrepreneurship. I was also independently responsible for a field investigation of futures insurance in my sophomore year and drafted a simple <a href="resources/UG_Future insurance.pdf">investigation report.
 </p>
 
 <h2>News</h2>
