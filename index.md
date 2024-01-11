@@ -42,23 +42,24 @@ is_about: true
 
 <p><br /></p>
 
-<h2 id="teaching-and-resources">Teaching, learning, and resources</h2>
+<h2 id="teaching-and-resources">Working, learning, and resources</h2>
 
 <p>I assist serveral courses in <a href="https://mscdabe.hkbu.edu.hk/eng/programme/curriculum/index.jsp">MSc of Data Analytics and Business Economics </a> program in 2023 Aug-2024 July:</p>
 
 <ul>
+  <li>ECON4006 Time Series Analysis and Forecasting</li>
   <li>ECON7880 Foundations in Big Data Analytics: Concepts and Techniques</li>
   <li>ECON7920 Executive Workshop Series</li>
   <li>ECON7035 Artificial Intelligence for Business</li>
   <li>ECON7940 Data-driven Decision Making</li>
+  
 </ul>
 
-<p>I’m one of the lead organizers for <a href="https://www.bertforhumanists.org/">AI for Humanists</a>, a series of tutorials and workshops that guide interdisciplinary researchers in using large language models. In addition to our independent tutorials, I’ve led or co-led sessions at ICWSM, Bell Labs, and the popular NLP+CSS 201 tutorial series. I’ve also taught similar public-facing courses for the Hertie School in Berlin, the Brown Institute at Columbia, and the IDEAS Summer School at Northeastern.</p>
 
-<p>I’m a builder for a large multimodal crowdfunding dataset:</p>
+<p>I’m a builder for a large multimodal crowdfunding dataset and maintainer for the CLES database:</p>
 <ul>
   <li><a href="https://github.com/zjzhang1999/Kick60K">Kick60 (collected from Kickstarter)</a></li>
- 
+  <li> <a href="http://jscv.njau.edu.cn/#/data/visualization"> CLES(2020~)
 </ul>
 
 <p><br /></p>
