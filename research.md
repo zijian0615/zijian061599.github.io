@@ -28,3 +28,9 @@ household entrepreneurship in China</strong></a> <button type="button" class="bu
 <a href="resources/MS_IS6912.pdf"><button type="button" class="button-pdf">PDF</button></a>
 <a href="UG_Dissertation_slides.pdf"><button type="button" class="button-slides">Slides</button></a></p>
 
+<p><a href="resources/UG_disseration.pdf"><strong>Analysis of the impact of risk attitudes on rural 
+household entrepreneurship in China</strong></a> <button type="button" class="button-preprint">preprint 22'</button>  <br />
+<strong>Zijian ZHANG</strong>      <br />
+<a href="resources/MS_IS6912.pdf"><button type="button" class="button-pdf">PDF</button></a>
+<a href="UG_Dissertation_slides.pdf"><button type="button" class="button-slides">Slides</button></a></p>
+
