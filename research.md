@@ -1,11 +1,5 @@
 
 ---
-layout: default
-is_research: true
----
-
-
----
   
 <p><a href="resources/MS_CFMP.pdf"><strong>A Four-Modality Fusion Method of Crowdfunding Prediction</strong></a> <button type="button" class="button-preprint">preprint 23'</button> <br />
 <strong>Zijian ZHANG</strong>       <br />
