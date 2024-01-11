@@ -67,7 +67,7 @@ hr {
 /* Divs */
 .button-preprint {
   /* 添加样式规则 */
-  background-color: #fffebf;
+  background-color: #ffe6a6;
   color: #333;
   border: 1px solid #ccc;
   padding: 4px 8px;
@@ -105,6 +105,15 @@ hr {
 .button-journal {
   /* 添加样式规则 */
   background-color: #ffd6fe;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 4px 8px;
+  border-radius: 2px;
+  text-decoration: none;
+}
+.button-thesis {
+  /* 添加样式规则 */
+  background-color: #a6e6ff;
   color: #333;
   border: 1px solid #ccc;
   padding: 4px 8px;
