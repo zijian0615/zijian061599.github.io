@@ -70,7 +70,7 @@ hr {
   background-color: #fffebf;
   color: #333;
   border: 1px solid #ccc;
-  padding: 5px 10px;
+  padding: 4px 8px;
   border-radius: 2px;
   text-decoration: none;
 }
@@ -80,7 +80,7 @@ hr {
   background-color: #c6f5c9;
   color: #333;
   border: 1px solid #ccc;
-  padding: 5px 10px;
+  padding: 4px 8px;
   border-radius: 2px;
   text-decoration: none;
 }
@@ -89,7 +89,16 @@ hr {
   background-color: #d6c6f5;
   color: #333;
   border: none;
-  padding: 5px 10px;
+  padding: 4px 8px;
+  border-radius: 2px;
+  text-decoration: none;
+}
+.button-slides {
+  /* 添加样式规则 */
+  background-color: #fffeb8;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 4px 8px;
   border-radius: 2px;
   text-decoration: none;
 }
