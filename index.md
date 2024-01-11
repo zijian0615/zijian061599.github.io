@@ -12,7 +12,7 @@ is_about: true
 <h2>About Me</h2>
 
 <p>
-    I am a teaching assistant at the HKBU in the Department of <a href="https://bus.hkbu.edu.hk/eng/bus/department/aef/heads-message/index.jsp">AEF</a>, where I work in assisting the <a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> master program. I am currently seeking a PhD position in Agri econ. In my research, I use computational methods to study agricultural finance,crowdfunding entrepreneurship and resident healthcare. I am also interested in how ICTs and STSs can help people form online trust and enhance well-being, with a focus on vulnerable and marginalized populations,like the elder,famres in the developing countries.
+    I am a teaching assistant at the HKBU in the Department of <a href="https://bus.hkbu.edu.hk/eng/bus/department/aef/heads-message/index.jsp">AEF</a>, where I work in assisting the <a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> master program. I am currently seeking a PhD position in Agri Econ/Management. In my research, I use computational methods to study agricultural finance,crowdfunding entrepreneurship and resident healthcare. I am also interested in how ICTs and STSs can help people form online trust and enhance well-being, with a focus on vulnerable and marginalized populations,like the elder,famres in the developing countries.
 </p>
 
 <p>
@@ -59,7 +59,7 @@ is_about: true
 <p>I’m a builder for a large multimodal crowdfunding dataset and maintainer for the CLES database:</p>
 <ul>
   <li><a href="https://github.com/zjzhang1999/Kick60K">Kick60 (collected from Kickstarter)</a></li>
-  <li> <a href="http://jscv.njau.edu.cn/#/data/visualization"> CLES(2020~)
+  <li> <a href="http://jscv.njau.edu.cn/#/data/visualization"> CLES(2020~)</a></li>
 </ul>
 
 <p><br /></p>
@@ -122,7 +122,4 @@ Here is a blockquote
 > To a great mind, nothing is little
 -->
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
