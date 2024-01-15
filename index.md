@@ -59,7 +59,7 @@ is_about: true
 <p>I’m a builder for a large multimodal crowdfunding dataset and maintainer for the CLES database:</p>
 <ul>
   <li><a href="https://github.com/zjzhang1999/Kick60K">Kick60 (collected from Kickstarter)</a></li>
-  <li> <a href="[http://jscv.njau.edu.cn/#/data/visualization](http://jscv.njau.edu.cn/#/data/visualization)"> CLES(2020~)</a></li>
+  <li> <a href="http://jscv.njau.edu.cn/#/data/visualization"> CLES(2020~)</a></li>
 </ul>
 
 <p><br /></p>
