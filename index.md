@@ -47,11 +47,11 @@ is_about: true
 <p>I assist serveral courses in <a href="https://mscdabe.hkbu.edu.hk/eng/programme/curriculum/index.jsp">MSc of Data Analytics and Business Economics </a> program in 2023 Aug-2024 July:</p>
 
 <ul>
-  <li>ECON4006 Time Series Analysis and Forecasting</li>
-  <li>ECON7880 Foundations in Big Data Analytics: Concepts and Techniques</li>
-  <li>ECON7920 Executive Workshop Series</li>
-  <li>ECON7035 Artificial Intelligence for Business</li>
-  <li>ECON7940 Data-driven Decision Making</li>
+  <li>UG Time Series Analysis and Forecasting</li>
+  <li>PG Foundations in Big Data Analytics: Concepts and Techniques</li>
+  <li>PG Executive Workshop Series</li>
+  <li>PG Artificial Intelligence for Business</li>
+  <li>PG Data-driven Decision Making</li>
   
 </ul>
 
