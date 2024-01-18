@@ -12,16 +12,19 @@ is_about: true
 <h2>About Me</h2>
 
 <p>
-    I am a teaching assistant at the HKBU in the Department of <a href="https://bus.hkbu.edu.hk/eng/bus/department/aef/heads-message/index.jsp">AEF</a>, where I work in assisting the <a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> master program. I am currently seeking a PhD position in Agri Econ/Management. In my research, I use computational methods to study agricultural finance,crowdfunding entrepreneurship and resident healthcare. I am also interested in how ICTs and STSs can help people form online trust and enhance well-being, with a focus on vulnerable and marginalized populations,like the elder,famres in the developing countries.
+    I am a teaching assistant at the HKBU in the Department of <a href="https://bus.hkbu.edu.hk/eng/bus/department/aef/heads-message/index.jsp">AEF</a>, where I work in assisting the <a href="https://mscdabe.hkbu.edu.hk/eng/main/Index">DABE</a> master program. I am currently seeking a PhD position in information science/computer science. In my research,I use computational methods to improve the security and equity of sociotechnical systems. I‘m highly interested in sociolinguistic ideas, in other words, how to understand and facilitate our expression in a computational ways based on the sound e-environment and thus animate online communities.
+
+
 </p>
 
 <p>
-    I earned my MS degree in Information Systems from <a href="https://www.cb.cityu.edu.hk/is/">City University of Hong Kong</a> in October 2023. I have a bachelor's degree in Agricultural Economics and Management from <a href="https://www.njau.edu.cn/mainm.htm">Nanjing Agricultural University</a> and have worked as a research intern at places like Core Biotech. I have been recognized as an "Outstanding Graduate" at Nanjing Agri Univ.
+    I earned my MS degree in Information Systems from <a href="https://www.cb.cityu.edu.hk/is/">City University of Hong Kong</a> in October 2023. I have a bachelor's degree in Economics from <a href="https://www.njau.edu.cn/mainm.htm">Nanjing Agricultural University</a> and have worked as a research intern at places like Core Biotech. I have been recognized as an "Outstanding Graduate" at Nanjing Agri Univ.
 </p>
 
 <p>
-    My past work has examined how people form their <a href="resources/MS_Onlinetrust.pdf">online trust</a> in crowdfunding communities,<a href="resources/MS_IS6912.pdf">the antecedents and discrimination</a> in crowdfunding,as well as <a href="https://zjzhang1999.github.io/cfmp.github.io/">the interpretable multimodality reasoning model</a> for crowdfunding success prediction. In my UG <a href="resources/UG_Dissertation.pdf">disseration</a>, I explored the risk preference in rural households entrepreneurship. I was also independently responsible for a field investigation of futures insurance in my sophomore year and drafted a simple <a href="resources/UG_Future insurance.pdf">investigation report</a>.
+    My past work has examined how people form their <a href="resources/MS_Onlinetrust.pdf">online trust</a> in crowdfunding communities,<a href="resources/MS_IS6912.pdf">the antecedents and discrimination</a> in crowdfunding,how to mitigate data breaches in healthcare systems, as well as <a href="https://zjzhang1999.github.io/cfmp.github.io/">the interpretable multimodality reasoning model</a> for crowdfunding success prediction. In my UG <a href="resources/UG_Dissertation.pdf">disseration</a>, I explored the risk preference in rural households entrepreneurship. 
 </p>
+
 
 <h2>News</h2>
 
