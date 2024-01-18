@@ -15,8 +15,8 @@ is_contact: true
 ---
 
 ## Thoughts
-> 📚
->  (ing)
-> Statistical Intuition Without Coding (or Teachers)
+> 
+>  
+> 2023/12  <a href="https://gking.harvard.edu/2k1">Statistical Intuition Without Coding (or Teachers)</a> -Gary King
 >  
 
