@@ -17,6 +17,6 @@ is_contact: true
 ## Thoughts
 > 📚
 >  (ing)
-> 
+> Statistical Intuition Without Coding (or Teachers)
 >  
 
