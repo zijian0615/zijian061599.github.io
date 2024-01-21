@@ -16,10 +16,10 @@ is_contact: true
 
 ## Thoughts
 > 
-> 2024/01  <a href="https://github.com/ydyjya/Awesome-LLM-Safety?tab=readme-ov-file#-scholars-"> A curated list of security-related works focused on 
+> 2024/01   <a href="https://github.com/ydyjya/Awesome-LLM-Safety?tab=readme-ov-file#-scholars-"> A curated list of security-related works focused on 
 LLMs. </a> -Zhen Hong
 > <br> 
-> 2023/12  <a href="https://gking.harvard.edu/2k1">Statistical Intuition Without Coding (or Teachers)</a> -Gary King
+> 2023/12   <a href="https://gking.harvard.edu/2k1">Statistical Intuition Without Coding (or Teachers)</a> -Gary King
 > 
 >  
 
