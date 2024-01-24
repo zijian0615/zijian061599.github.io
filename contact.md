@@ -15,7 +15,7 @@ is_contact: true
 ---
 
 ## Thoughts
-> 
+> 2024/01 &nbsp: <a href='resources/SoP_PhD_HKBU_MIS'> SoP </a>  
 > 2024/01 &nbsp; <a href="https://github.com/ydyjya/Awesome-LLM-Safety?tab=readme-ov-file#-scholars-"> A curated list of security-related works focused on 
 LLMs. </a> -Zhen Hong
 > <br> 
