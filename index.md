@@ -52,9 +52,10 @@ is_about: true
 <ul>
   <li>UG Time Series Analysis and Forecasting</li>
   <li>PG Foundations in Big Data Analytics: Concepts and Techniques</li>
-  <li>PG Executive Workshop Series</li>
   <li>PG Artificial Intelligence for Business</li>
+  <li>PG Cloud Computing for Business Analytics</li>
   <li>PG Data-driven Decision Making</li>
+  <li>PG Executive Workshop Series</li>
   
 </ul>
 
